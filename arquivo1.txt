@@ -10,3 +10,4 @@ Comandos de Revisão
 
 -git tag *nome da tag*(fixa no commit, ao contrário da branch)
 -git merge (junta as modificações do [commit, branch ou tag])
+-git tag *nome da tag*(fixa no commit, ao contrário da branch)
