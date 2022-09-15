@@ -1,0 +1,6 @@
+Comandos de Revisão
+
+- git init (inicializa o repositório)
+- git add -A (Adiciona todas as modificações para serem salvas)
+- git commit -m "Texto" (Salva as modificações)
+- git log (Ver histórico de moficações) 
