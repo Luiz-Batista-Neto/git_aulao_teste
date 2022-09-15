@@ -7,3 +7,6 @@ Comandos de Revisão
 - git checkout (Vai de um ponto para o outro [pode usar hash, branch ou tag])
 - git status (verifica o estado dos arquivos modificados dos arquivos)
 - git clean -df (remove novos arquivos e diretorios não reconhecidos no repositório)
+
+-git tag *nome da tag*(fixa no commit, ao contrário da branch)
+-git merge (junta as modificações do [commit, branch ou tag])
