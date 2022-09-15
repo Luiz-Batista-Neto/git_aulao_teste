@@ -1,0 +1,9 @@
+Comandos de Revisão
+
+- git init (inicializa o repositório)
+- git add -A (Adiciona todas as modificações para serem salvas)
+- git commit -m "Texto" (Salva as modificações)
+- git log (Ver histórico de moficações) . para remover a ultima modificação
+- git checkout (Vai de um ponto para o outro [pode usar hash, branch ou tag])
+- git status (verifica o estado dos arquivos modificados dos arquivos)
+- git clean -df (remove novos arquivos e diretorios não reconhecidos no repositório)
