@@ -12,5 +12,6 @@ Comandos de Revisão
 -git merge (junta as modificações do [commit, branch ou tag])
 -git tag *nome da tag*(fixa no commit, ao contrário da branch)
 -git remote add origin <- ou qualquer outro nome
-usando (git push --set upstream (ou -u) origin main) automatiza o processo só precisando usar git push
+usando (git push --set-upstream (ou -u) origin main) automatiza o processo só precisando usar git push
 git push
+-git clone
