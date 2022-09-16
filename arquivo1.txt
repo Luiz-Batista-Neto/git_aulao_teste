@@ -14,4 +14,4 @@ Comandos de Revisão
 -git remote add origin <- ou qualquer outro nome
 usando (git push --set-upstream (ou -u) origin main) automatiza o processo só precisando usar git push
 git push
--git clone
+-git clone *url* . para baixar na pasta atual
